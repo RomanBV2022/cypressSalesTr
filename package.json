@@ -1,0 +1,22 @@
+{
+  "name": "cypresssalestr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBV2022/cypressSalesTr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBV2022/cypressSalesTr/issues"
+  },
+  "homepage": "https://github.com/RomanBV2022/cypressSalesTr#readme",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
