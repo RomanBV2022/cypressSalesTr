@@ -1,0 +1,23 @@
+{
+        "site": {
+                "URL":"https://salestracker24.com"
+        },
+        "userData": {
+                "name_valid": "Roman",
+                "name_invalid": "#@%&*()_)&^ 6",
+                "surname_valid": "Kowalski",
+                "surname_invalid": "@!%^$ ^&*&^",
+                "organization_valid":"ERP PL",
+                "organization_invalid":"24#%$#45134",
+                "email_valid": "wers@wp.pl",
+                "email_invalid": "1234#w! 34DD",
+                "phone_valid": "749477346",
+                "phone_invalid": "gdsbedfr#@388",
+                "textArea_valid_data": "Hello, this is test for checking validation contact form",
+                "texarea_invalid_data": "this is fake message for 23r423ffgbfgb@#R%$#$^% #$% "
+        }
+        
+        
+
+   
+}

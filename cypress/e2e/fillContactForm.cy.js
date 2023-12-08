@@ -28,7 +28,7 @@ beforeEach(()=> {
       .type('The "E-mail" input field is accepting invalid data. Pole input nie przyjmuje poprawnych danych. Brak weryfikacji e-maila zgodnie z wymaganiami dla danego typu pola. Wiadomość została wygenerowana przy użyciu frameworku Cypress - autor: burlakarv@gmail.com');
       cy.get('[type="checkbox"]').check({force: true});
       //cy.get('[title="reCAPTCHA"]').check({force: true});
-      cy.get(' div.group.group-middle > div.wow-outer > button').click();
+      cy.get('div.group.group-middle > div.wow-outer > button').click();
 
 
 
